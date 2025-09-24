@@ -1,0 +1,45 @@
+{
+  "term": "Fall",
+  "year": "2013",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Political Science",
+      "International Relations"
+    ]
+  ],
+  "legacy_uid": "803a284b-2980-33e0-be13-1103777705a4",
+  "instructors": {
+    "content": [
+      "2f4d647a-04d4-7c45-5584-0ef1bccabb28",
+      "47854d4b-a33e-42fd-163e-8bdaaaa19108"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "83d18055-e162-1afe-f1d6-619faedbc18a",
+    "website": "17-478-great-power-military-intervention-fall-2013"
+  },
+  "course_title": "Great Power Military Intervention",
+  "course_description": "This course examines systematically, and comparatively, great and middle power military interventions, and candidate military interventions, into civil wars from the 1990s to the present. These civil wars did not easily fit into the traditional category of vital interest. These interventions may therefore tell us something about broad trends in international politics including the nature of unipolarity, the erosion of sovereignty, the security implications of globalization, and the nature of modern western military power.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.478",
+  "course_image_thumbnail": {
+    "content": "eb7e5b6f-4c10-3354-ad9e-93b9ac3bac5f",
+    "website": "17-478-great-power-military-intervention-fall-2013"
+  },
+  "learning_resource_types": [
+    "Written Assignments",
+    "Instructor Insights"
+  ],
+  "site_uid": "987e299a-3f2e-4103-a98c-d171197262bf",
+  "site_short_id": "17.478-fall-2013",
+  "site_url_path": "courses/17-478-great-power-military-intervention-fall-2013",
+  "title": "Course Metadata"
+}
