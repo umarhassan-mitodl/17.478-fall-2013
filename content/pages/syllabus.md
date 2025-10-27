@@ -53,13 +53,13 @@ Readings
 
 The following books are required readings for this seminar.
 
-Finnemore, Martha. _The Purpose of Intervention: Changing Beliefs about the Use of Force_. Cornell University Press, 2004. ISBN: 9780801489594. \[Preview with {{% resource_link "3cef4e07-7447-4de7-b75a-01846d06acd4" "Google Books" %}}\]
+Finnemore, Martha. _The Purpose of Intervention: Changing Beliefs about the Use of Force_. Cornell University Press, 2004. ISBN: 9780801489594. \[Preview with {{% resource_link "79222768-3071-494a-8417-84b98a6da0f8" "Google Books" %}}\]
 
-Kuperman, Alan J. _The Limits of Humanitarian Intervention: Genocide in Rwanda_. Brookings Institution Press, 2001. ISBN: 9780815700852. \[Preview with {{% resource_link "7a0f8216-93c3-43ce-a01d-6891722b758c" "Google Books" %}}\]
+Kuperman, Alan J. _The Limits of Humanitarian Intervention: Genocide in Rwanda_. Brookings Institution Press, 2001. ISBN: 9780815700852. \[Preview with {{% resource_link "63f43d81-2f21-4a83-acd7-098ca13dd709" "Google Books" %}}\]
 
-Petersen, Roger D. _Western Intervention in the Balkans: The Strategic Use of Emotion in Conflict_. Cambridge University Press, 2011. ISBN: 9780521281263. \[Preview with {{% resource_link "c1440aed-383c-4a63-9aa6-84c0548d8143" "Google Books" %}}\]
+Petersen, Roger D. _Western Intervention in the Balkans: The Strategic Use of Emotion in Conflict_. Cambridge University Press, 2011. ISBN: 9780521281263. \[Preview with {{% resource_link "08d649af-255a-4cb6-8a7e-f21a7dda1e68" "Google Books" %}}\]
 
-Lyons, Terrence, and Ahmed I. Samatar. _Somalia: State Collapse, Multilateral Intervention, and Strategies for Political Reconstruction_. Brookings Institution Press, 1995. ISBN: 9780815753513. \[Preview with {{% resource_link "cbe1dc45-3b7a-490e-bd6b-45d970b1dc62" "Google Books" %}}\]
+Lyons, Terrence, and Ahmed I. Samatar. _Somalia: State Collapse, Multilateral Intervention, and Strategies for Political Reconstruction_. Brookings Institution Press, 1995. ISBN: 9780815753513. \[Preview with {{% resource_link "2c681361-1101-42be-b299-bab9b4bb5bf0" "Google Books" %}}\]
 
 Prunier, Gérard. _Darfur: A 21st Century Genocide_. 3rd ed. Cornell University Press, 2008. ISBN: 9780801475030.
 
