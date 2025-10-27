@@ -30,8 +30,8 @@ By taking this course, students should gain a broader overall understanding of b
 ### Requirements Satisfied
 
 - H-Level Graduate Credit ![](/images/educator/icon-question-hlevel.png)
-- Can be applied toward a {{% resource_link "4597e20d-a69d-4bc5-8447-7f069b54a093" "Master of Science in Political Science" %}}
-- Can be applied toward a {{% resource_link "39a3abd9-cab1-46df-86f1-9db175d2a0e6" "PhD in Political Science" %}}
+- Can be applied toward a {{% resource_link "85014fc6-cfb7-4c65-b57f-16e9e7d8d8e4" "Master of Science in Political Science" %}}
+- Can be applied toward a {{% resource_link "5f97edf6-2ee6-4d50-8252-43e7f7186a9c" "PhD in Political Science" %}}
 
 {{< anchor "studentinfo" >}}{{< /anchor >}}
 
